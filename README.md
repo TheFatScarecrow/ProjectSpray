@@ -9,4 +9,6 @@
 
 •Markers at tagged locations
 
+•Markers at planed locations
+
 •Custom map markers
