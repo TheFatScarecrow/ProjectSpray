@@ -3,7 +3,7 @@
 
 **Features:**
 
-•3D map
+•3D custom map
 
 •List of all drawings
 
